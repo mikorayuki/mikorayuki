@@ -1,36 +1,41 @@
-<!-- Anime Banner -->
 <p align="center">
   <img src="https://files.catbox.moe/z87cm9.jpg" alt="Anime Banner" width="100%" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF70B5&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mikorayuki;Anime-style+Dev+%7C+Bot+Creator;Ngoding+Sambil+Ngopi+%26+OST+Anime;Pemula+Tapi+Semangat+Belajar!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=💫+Hi%2C+i+am+Mikorayuki!;🌸+Designer+%2F+Editor+AM;👶+Masih+Pemula+di+Ngoding;🎬+Seorang+Content+Creator" alt="Typing SVG" />
 </p>
 
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikorayuki&style=flat-square&label=Visitors&color=ff69b4" alt="Visitor Counter" />
+  <img src="https://count.getloli.com/get/@mikorayuki?theme=rule34" alt="Visitor Count" />
 </p>
 
 ---
 
 ## 🌸 Tentang Saya
 
-> ✨ *"Ngoding itu ibarat anime arc — selalu ada tantangan, dan selalu worth it."*
+> 🎧 Koding sambil dengerin musik anime dan ngopi itu wajib...
 
-- 💻 Fokus: `WhatsApp Bot`, `Next.js`, `TailwindCSS`, `HTML/CSS`
-- 🎨 Suka desain UI bertema anime/loli aesthetic
-- 🎯 Proyek: Web PMR, WA Bot Mikorayuki, Anime-style LinkTree
-- ☕ Sering ngoding sambil: kopi + OST anime vibes
+- 🔧 Fokus: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`, `Desain UI`
+- 🎯 Proyek: bio link anime-style, bot WhatsApp, UI web PMR, dashboard aesthetic
+- 🧠 Filosofi: Kode yang cantik seperti karakter anime favoritmu
 
 ---
 
-## 🌐 Temui Saya di
+## 💫 Nahida is waifu me
+
+<p align="center">
+  <img src="https://paimon.moe/images/characters/full/nahida.png" width="240" alt="Nahida Maskot">
+</p>
+
+> ✨ *~ngoding di temanin sama nahida~*
+---
+
+## 🌐 Sosial Media
 
 <p align="center">
   <a href="https://mikorayuki.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-1d1d1d?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="https://wa.me/6283833826401" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -45,10 +50,10 @@
 
 ---
 
-## 🧰 Tools & Skill
+## 🧰 Skill Set
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vscode,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vscode,github" />
 </p>
 
 ---
@@ -65,29 +70,25 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg" alt="Snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg" alt="Snake animation" />
 
 ---
 
 ## 🕹️ Pacman Contribution
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
 ## ✨ Anime Dev Quotes
 
 > 💬 *"Even my bugs have kawaii energy."*  
-> 🐉 *"Code like Rimuru — scalable, overpowered, and elegant."*  
-> 🌸 *"Satu function kecil bisa ubah dunia. Percaya aja!"*
+> 🐉 *"Write code like Rimuru leads a nation — scalable & overpowered."*  
+> 🌸 *"A single function can change the world — believe it!"*
 
 ---
 
