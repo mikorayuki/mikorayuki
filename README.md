@@ -3,22 +3,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💫+Hi,i+am,mikorayuki;designer+dan+editor+am+🖼;masih+pemula+dalam+ngoding+👶;seorang+content+creator+🎬" alt="Typing SVG" />
+  <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/anime-waving.gif" width="150px" alt="Hi" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💫+Hi,+I+am+Mikorayuki;🖼+Designer+%26+Editor+Amateur;👶+Masih+Pemula+di+Ngoding;🎬+Seorang+Content+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mikorayuki&style=for-the-badge&color=ff7eb9" alt="Visitor Counter" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mikorayuki&theme=tokyonight&margin-w=10&margin-h=10" alt="Trophy" />
 </p>
 
 ---
 
 ## 🌸 Tentang Saya
 
-> 🎧 Koding sambil dengerin **spotify** dan ngopi itu harus 
+> ☕ Koding sambil dengerin **Spotify Anime Playlist** + kopi = fokus!
 
-- 🔧 Aktif ngoprek: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`
-- 🎯 Proyek berjalan: bio link anime-style, WA bot, UI dashboard,web situs (pmr and web orang)
-- 🧠 Filosofi: Anime loli + kode bersih = 🔥
+- 🔧 Ngoprek: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`
+- 🎯 Proyek aktif: Bio anime-style, Bot WhatsApp, web PMR, UI anime dashboard
+- 🧠 Filosofi: "Anime loli + kode bersih = 🔥 aesthetic & power"
 
 ---
 
@@ -26,7 +31,7 @@
 
 <p align="center">
   <a href="https://mikorayuki.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Website-1d1d1d?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="https://wa.me/6283833826401" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -44,7 +49,7 @@
 ## 🧰 Skill Set
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vscode,github,figma" />
 </p>
 
 ---
@@ -61,25 +66,29 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 🕹️ Pacman Contribution
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
 ## ✨ Anime Dev Quotes
 
 > 💬 *"Even my bugs have kawaii energy."*  
-> 🐉 *"Write code like Rimuru leads a nation — scalable & overpowered."*  
-> 🌸 *"A single function can change the world — believe it!"*
+> 🐉 *"Code like Rimuru — scalable, overpowered, and elegant."*  
+> 🌸 *"A single async function can change your world — believe it!"*
 
 ---
 
