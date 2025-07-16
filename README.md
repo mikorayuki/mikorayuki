@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=✨+Konbanwa~+I'm+Mikorayuki+✧;👨‍💻+Web+%26+Bot+Dev;🎮+Anime-tuned+Coder;☕+Coffee+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💫+Hi,i+am,mikorayuki;designer+dan+editor+am+🖼;masih+pemula+dalam+ngoding+👶;seorang+content+creator+🎬" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## 🌸 Tentang Saya
 
-> 🎧 Koding sambil dengerin **OST anime** dan ngopi itu wajib!
+> 🎧 Koding sambil dengerin **spotify** dan ngopi itu harus 
 
 - 🔧 Aktif ngoprek: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`
-- 🎯 Proyek berjalan: bio link anime-style, WA bot, UI dashboard
-- 🧠 Filosofi: Anime vibes + kode bersih = 🔥
+- 🎯 Proyek berjalan: bio link anime-style, WA bot, UI dashboard,web situs (pmr and web orang)
+- 🧠 Filosofi: Anime loli + kode bersih = 🔥
 
 ---
 
