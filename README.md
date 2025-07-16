@@ -2,28 +2,23 @@
   <img src="https://files.catbox.moe/z87cm9.jpg" alt="Anime Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/anime-waving.gif" width="150px" alt="Hi" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF70B5&center=true&vCenter=true&width=435&lines=Hi,+I+am+Mikorayuki;Anime-style+Dev+%7C+Bot+Creator;Pemula+Coding+yang+Suka+Desain;Senang+ngoding+sambil+ngopi+dan+OST+anime" alt="Typing Text" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💫+Hi,+I+am+Mikorayuki;🖼+Designer+%26+Editor+Amateur;👶+Masih+Pemula+di+Ngoding;🎬+Seorang+Content+Creator" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikorayuki&style=for-the-badge&color=ff7eb9" alt="Visitor Counter" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mikorayuki&theme=tokyonight&margin-w=10&margin-h=10" alt="Trophy" />
+  <img src="https://profile-counter.glitch.me/mikorayuki/count.svg" alt="Profile views" />
 </p>
 
 ---
 
 ## 🌸 Tentang Saya
 
-> ☕ Koding sambil dengerin **Spotify Anime Playlist** + kopi = fokus!
+> ☕ Koding sambil dengerin **OST anime** dan ngopi bikin vibes makin hidup.
 
-- 🔧 Ngoprek: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`
-- 🎯 Proyek aktif: Bio anime-style, Bot WhatsApp, web PMR, UI anime dashboard
-- 🧠 Filosofi: "Anime loli + kode bersih = 🔥 aesthetic & power"
+- 💻 Fokus: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`, `HTML/CSS`
+- 🎯 Proyek berjalan: bot WhatsApp, web PMR, dashboard anime-style
+- 🌟 Motto: "Kecil-kecil ngoding, bug-bug kawaii"
 
 ---
 
