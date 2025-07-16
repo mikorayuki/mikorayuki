@@ -1,28 +1,32 @@
+<!-- Anime Banner -->
 <p align="center">
   <img src="https://files.catbox.moe/z87cm9.jpg" alt="Anime Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF70B5&center=true&vCenter=true&width=435&lines=Hi,+I+am+Mikorayuki;Anime-style+Dev+%7C+Bot+Creator;Pemula+Coding+yang+Suka+Desain;Senang+ngoding+sambil+ngopi+dan+OST+anime" alt="Typing Text" />
-</h1>
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mikorayuki/count.svg" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF70B5&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mikorayuki;Anime-style+Dev+%7C+Bot+Creator;Ngoding+Sambil+Ngopi+%26+OST+Anime;Pemula+Tapi+Semangat+Belajar!" alt="Typing SVG" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikorayuki&style=flat-square&label=Visitors&color=ff69b4" alt="Visitor Counter" />
 </p>
 
 ---
 
 ## 🌸 Tentang Saya
 
-> ☕ Koding sambil dengerin **OST anime** dan ngopi bikin vibes makin hidup.
+> ✨ *"Ngoding itu ibarat anime arc — selalu ada tantangan, dan selalu worth it."*
 
-- 💻 Fokus: `Baileys WhatsApp API`, `Next.js`, `TailwindCSS`, `HTML/CSS`
-- 🎯 Proyek berjalan: bot WhatsApp, web PMR, dashboard anime-style
-- 🌟 Motto: "Kecil-kecil ngoding, bug-bug kawaii"
+- 💻 Fokus: `WhatsApp Bot`, `Next.js`, `TailwindCSS`, `HTML/CSS`
+- 🎨 Suka desain UI bertema anime/loli aesthetic
+- 🎯 Proyek: Web PMR, WA Bot Mikorayuki, Anime-style LinkTree
+- ☕ Sering ngoding sambil: kopi + OST anime vibes
 
 ---
 
-## 🌐 Sosial Media
+## 🌐 Temui Saya di
 
 <p align="center">
   <a href="https://mikorayuki.my.id" target="_blank">
@@ -41,7 +45,7 @@
 
 ---
 
-## 🧰 Skill Set
+## 🧰 Tools & Skill
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vscode,github,figma" />
@@ -83,7 +87,7 @@
 
 > 💬 *"Even my bugs have kawaii energy."*  
 > 🐉 *"Code like Rimuru — scalable, overpowered, and elegant."*  
-> 🌸 *"A single async function can change your world — believe it!"*
+> 🌸 *"Satu function kecil bisa ubah dunia. Percaya aja!"*
 
 ---
 
