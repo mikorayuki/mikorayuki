@@ -28,7 +28,7 @@
   <img src="https://paimon.moe/images/characters/full/nahida.png" width="240" alt="Nahida Maskot">
 </p>
 
-> ✨ *~ngoding di temanin sama nahida~*
+> ✨ *ngoding di temanin sama nahida*
 ---
 
 ## 🌐 Sosial Media
