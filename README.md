@@ -1,56 +1,52 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#D10000;">Mikorayuki</span></h1>
-<h3 align="center">💻 I create bots, build web apps, and explore automation.</h3>
+<h1 align="center">✨ 𝙷𝚎𝚢𝚘 ~ I'm Mikorayuki ✧</h1>
+<h3 align="center">🧑‍💻 Full-time Dreamer | 💻 Web & Bot Developer | ☕ Coffee-powered Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+World!;I'm+a+Web+and+Bot+Developer.;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=mikorayuki&style=for-the-badge&color=ff7eb9" alt="Visitor Counter" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 Tentang Aku
 
-- 🌱 Currently diving into: **Baileys API**, **Next.js**, and **REST API**
-- ⚒️ I build: Bots, Bio-Link pages, Web Dashboards, and Automation Tools
-- 💬 Ask me about: **JavaScript**, **Node.js**, **Frontend**, and **WhatsApp Bots**
-- 🎯 Focused on clean code, reusability, and fun UI
-- ☕ Debugging is faster with coffee ☕😉
+- 🌱 Lagi belajar banyak hal seru: **Baileys API**, **Next.js**, **TailwindCSS**
+- 🤖 Project favorit: WhatsApp Bot, Mini App Web, Anime-styled UI
+- 💬 Sering ditanya: “Bang, bot-nya pakai Baileys atau venom?” 😆
+- 🎧 Coding ditemani musik anime + suara keyboard clicky 🎵
+- 🥤 Selalu siap dengan kopi susu atau teh tarik 😎
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Sosial Media-ku 💌
 <p align="center">
-  <a href="https://mikorayuki.my.id" target="_blank"><img src="https://img.shields.io/badge/My%20Website-24292E?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://wa.me/6283833826401" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://instagram.com/animloverindo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://mikorayuki.my.id" target="_blank"><img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://wa.me/6283833826401" target="_blank"><img src="https://img.shields.io/badge/Chat%20Me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/animloverindo" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@mikorayuki" target="_blank"><img src="https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack & Tools ✨
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,tailwind,vscode,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikorayuki&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikorayuki&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikorayuki&layout=compact&theme=tokyonight" height="180"/>
-</div>
+## 📊 My GitHub Stats 💻
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikorayuki&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikorayuki&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikorayuki&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ---
 
-## 🧠 My Mindset
+## 💬 Favorite Anime-Style Quotes
 
-> “Code is like humor. If you have to explain it, it’s bad.” – Cory House  
-> “Make it work, make it right, make it fast.” – Kent Beck
-
----
-
-## 🎉 Support
-If you like what I do, consider ⭐️ my repo or [buy me a coffee](https://buymeacoffee.com/) ☕️
+> 🌸 *"Just like in anime, even code has arcs — from messy to masterpiece."*  
+> 🔧 *"There’s no bug I can’t fix… after 3 cups of coffee."*
 
 ---
 
