@@ -1,109 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Mikorayuki&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Profile&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Mikorayuki&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Welcome%20Waifu%20Hunter%20&%20Dev&descAlignY=55&descAlign=50"/>
 </div>
 
 <p align="center">
-  <img src="https://files.catbox.moe/z87cm9.jpg" alt="Anime Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://files.catbox.moe/z87cm9.jpg" alt="Anime Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(255, 105, 180, 0.5);" />
 </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="30%" align="center">
-        <img src="https://paimon.moe/images/characters/full/nahida.png" alt="Nahida" width="180" />
-        <br>
-        <br>
-        <img src="https://img.shields.io/badge/Waifu-Nahida-76b900?style=flat-square&logo=genshinimpact&logoColor=white"/>
+        <img src="https://i.pinimg.com/originals/10/80/a4/1080a4bd1a33cec92019fab5efb31a31.gif" alt="Nahida Gif" width="160" style="border-radius: 10px;" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Main%20Waifu-Nahida-76b900?style=flat-square&logo=genshinimpact&logoColor=white"/>
     </td>
-    <td width="70%" valign="center">
-      <h3>👋 Hi there, I'm <a href="https://mikorayuki.my.id">Mikorayuki</a>!</h3>
-      
+    <td width="70%" valign="top">
+      <h3>🌸 Konnichiwa, I'm <a href="https://mikorayuki.my.id">Mikorayuki</a>!</h>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&width=435&lines=💫+Math+Education+Student;🌸+Designer+%2F+AMV+Editor;👶+Learning+Code+Day+by+Day;🎬+Content+Creator" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=F75C7E&width=435&lines=✨+Math+Education+Student;🌸+UI+Designer+%26+AMV+Editor;💻+Building+Next.js+Apps;🎮+Genshin+Impact+Player" alt="Typing SVG" />
       </a>
-      
       <br>
-      
-      > 🎧 *"Koding sambil dengerin musik anime dan ngopi itu wajib..."*
-      
-      <br>
-      
-      <ul>
-        <li>🔧 <b>Focus:</b> <code>Next.js</code>, <code>TailwindCSS</code>, <code>Baileys WA API</code></li>
-        <li>🎯 <b>Current:</b> Building Aesthetic Dashboards & WA Bots</li>
-        <li>🧠 <b>Motto:</b> <i>"Code yang cantik seperti karakter anime favoritmu."</i></li>
+      > 🍵 *"Coding itu seni, bug itu cobaan, waifu itu masa depan."
+      <ul style="list-style-type: disc;">
+        <li>🔭 <b>Currently working on:</b> Aesthetic Dashboard & WA Bots</li>
+        <li>🌱 <b>Learning:</b> <code>Next.js 14</code>, <code>TypeScript</code></li>
+        <li>💬 <b>Ask me about:</b> Anime, Design, or Math</li>
       </ul>
-      
       <p align="left">
-        <img src="https://count.getloli.com/get/@mikorayuki?theme=moebooru" alt="Visitor Count" />
+        <a href="https://wa.me/6283833826401"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+        <a href="https://instagram.com/animloverindo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+        <a href="https://tiktok.com/@mikorayuki"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 🧰 Tech & Tools
-
+<h3 align="center">⚒️ Tech & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind,react,nextjs,vscode,github,figma,ps&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,tailwind,nodejs,html,css,vscode,figma,ps,git&perline=12&theme=dark" />
 </p>
 
----
+<br>
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://mikorayuki.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6283833826401" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/animloverindo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@mikorayuki" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="mailto:contact@mikorayuki.my.id" target="_blank">
-     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikorayuki&show_icons=true&theme=cherry&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikorayuki&theme=cherry&hide_border=true&bg_color=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="180"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikorayuki&layout=compact&theme=cherry&hide_border=true&bg_color=0d1117&title_color=ff69b4" height="180"/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=mikorayuki&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d847" height="150" alt="Mikorayuki's Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikorayuki&theme=radical&hide_border=true&bg_color=141321&ring=fe428e&fire=fe428e&currStreakLabel=fe428e" height="150" alt="Mikorayuki's Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikorayuki&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e" height="160" alt="Top Languages" />
+  </p>
 </div>
 
----
-
-## 🐍 Contribution Graph
-
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg">
-    <img alt="github snake animation" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
----
-
-## ✨ Anime Dev Quotes
-
-<p align="center">
-  <i>💬 "Even my bugs have kawaii energy."</i><br>
-  <i>🐉 "Write code like Rimuru leads a nation — scalable & overpowered."</i><br>
-  <i>🌸 "A single function can change the world — believe it!"</i>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://count.getloli.com/get/@mikorayuki?theme=rule34" alt="Visitor Count" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
