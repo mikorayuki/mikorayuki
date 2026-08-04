@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF80BF&center=true&vCenter=true&width=500&lines=Halo!+Saya+Mikorayuki;Mahasiswa+Teknik+Informatika;Full-Stack+%26+WhatsApp+Bot+Developer;Editor+Alight+Motion+%26+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF80BF&center=true&vCenter=true&width=500&lines=Halo!+Saya+Mikorayuki;Full-Stack+%26+WhatsApp+Bot+Developer;Editor+Alight+Motion+%26+Content+Creator;Selamat+Datang+di+Profil+Saya!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,36 +12,25 @@
 
 ---
 
-### 🌸 Tentang Saya
-
-Halo! Saya **Mikorayuki** (Zulfan Fuadi), mahasiswa semester 3 yang lagi aktif eksplorasi dunia web development, bot automation, dan sistem server.
+### 🌸 tentang saya
 
 - 🌐 **Web Utama:** [mikorayuki.my.id](https://mikorayuki.my.id)
 - 💼 **Portofolio:** [zulfanfuadi.my.id](https://zulfanfuadi.my.id)
-- 🎓 **Status:** Mahasiswa Informatika (Semester 3)
-- 🎬 **Hobi:** Editing Video Alight Motion & Dengerin Musik Anime
+- 💻 **Fokus:** Node.js, Baileys WA API, Next.js, Express, JavaScript, Web Apps
 
 ---
 
-### 🌿 Waifu Companion
-
 <p align="center">
-  <img src="https://paimon.moe/images/characters/full/nahida.png" width="200" alt="Nahida">
-  <br>
-  <i>✨ Nahida — Teman Setia saat Ngoding ✨</i>
+  <img src="https://paimon.moe/images/characters/full/nahida.png" width="190" alt="Nahida">
 </p>
 
 ---
-
-### 🧰 Skill & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,nodejs,express,react,nextjs,tailwind,mongodb,mysql,git,github,vscode,ubuntu,cloudflare,linux,docker" alt="Skill Icons" />
 </p>
 
 ---
-
-### 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mikorayuki&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
@@ -55,16 +44,22 @@ Halo! Saya **Mikorayuki** (Zulfan Fuadi), mahasiswa semester 3 yang lagi aktif e
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg" alt="Snake Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-snake.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </p>
 
 ---
-
-### 🌐 Hubungi Saya
 
 <p align="center">
   <a href="https://mikorayuki.my.id" target="_blank">
