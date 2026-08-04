@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
