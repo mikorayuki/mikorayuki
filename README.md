@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF80BF&center=true&vCenter=true&width=500&lines=Halo!+Saya+Mikorayuki;Full-Stack+%26+WhatsApp+Bot+Developer;Editor+Alight+Motion+%26+Desainer;Selamat+Datang+di+Profil+Saya!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF80BF&center=true&vCenter=true&width=500&lines=Halo!+Saya+Mikorayuki;Mahasiswa+Teknik+Informatika;Full-Stack+%26+WhatsApp+Bot+Developer;Editor+Alight+Motion+%26+Content+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ### 🌸 Tentang Saya
 
-Halo! Saya Mikorayuki (Zulfan Fuadi). Saya suka mengembangkan bot WhatsApp, aplikasi web interaktif, serta membuat konten dan editing video di Alight Motion.
+Halo! Saya **Mikorayuki** (Zulfan Fuadi), mahasiswa semester 3 yang lagi aktif eksplorasi dunia web development, bot automation, dan sistem server.
 
-- 🌐 **Web Pribadi:** [mikorayuki.my.id](https://mikorayuki.my.id)
+- 🌐 **Web Utama:** [mikorayuki.my.id](https://mikorayuki.my.id)
 - 💼 **Portofolio:** [zulfanfuadi.my.id](https://zulfanfuadi.my.id)
-- 💻 **Keahlian Utama:** Node.js, Baileys WA API, Next.js, Express, JavaScript, HTML/CSS
+- 🎓 **Status:** Mahasiswa Informatika (Semester 3)
 - 🎬 **Hobi:** Editing Video Alight Motion & Dengerin Musik Anime
 
 ---
@@ -36,7 +36,7 @@ Halo! Saya Mikorayuki (Zulfan Fuadi). Saya suka mengembangkan bot WhatsApp, apli
 ### 🧰 Skill & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,html,css,tailwind,mongodb,vscode,git,github,docker,linux,nginx,pm2" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,py,nodejs,express,react,nextjs,tailwind,mongodb,mysql,git,github,vscode,ubuntu,cloudflare,linux,docker" alt="Skill Icons" />
 </p>
 
 ---
@@ -44,21 +44,19 @@ Halo! Saya Mikorayuki (Zulfan Fuadi). Saya suka mengembangkan bot WhatsApp, apli
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikorayuki&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mikorayuki&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikorayuki&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikorayuki&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-### 🐍 Grafik Kontribusi (Snake)
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/snake.svg" alt="Snake Graph" width="100%" />
 </p>
-
----
-
-### 🕹️ Grafik Kontribusi (Pacman)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg" alt="Pacman Graph" width="100%" />
