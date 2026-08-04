@@ -44,11 +44,7 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/mikorayuki/mikorayuki/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
 
 ---
