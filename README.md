@@ -15,7 +15,7 @@
 ### 🌸 tentang saya
 
 - 🌐 **Web Utama:** [mikorayuki.my.id](https://mikorayuki.my.id)
-- 💼 **Portofolio:** [zulfanfuadi.my.id](https://zulfanfuadi.my.id)
+- 💼 **Portofolio:** [zulfanfuadi.my.id](https://zulfanfuadi.web.id)
 - 💻 **Fokus:** Node.js, Baileys WA API, Next.js, Express, JavaScript, Web Apps
 
 ---
